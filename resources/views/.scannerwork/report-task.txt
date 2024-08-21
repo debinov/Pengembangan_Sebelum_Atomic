@@ -1,0 +1,6 @@
+projectKey=WebsiteBefore_Atomic
+serverUrl=http://localhost:9000
+serverVersion=10.5.1.90531
+dashboardUrl=http://localhost:9000/dashboard?id=WebsiteBefore_Atomic
+ceTaskId=acd406ae-a477-413b-b84c-1c92bfc04305
+ceTaskUrl=http://localhost:9000/api/ce/task?id=acd406ae-a477-413b-b84c-1c92bfc04305
